@@ -1,0 +1,5 @@
+{
+    "ApiKey": "key",
+    "ApiBaseUrl": "https://api.steampowered.com/",
+    "PubgAppId": 578080
+}
